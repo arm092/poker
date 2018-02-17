@@ -27,7 +27,7 @@
   <metadata>
     <rdf:RDF>
       <cc:Work>
-        <dc:format>img/svg+xml</dc:format>
+        <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
         <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
         <dc:publisher>
